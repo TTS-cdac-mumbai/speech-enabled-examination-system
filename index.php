@@ -26,7 +26,7 @@
 ##                                                                       ##
 ##              Speech Enabled Examination System                        ##
 ##                                                                       ##
-##            Designed and Developed by Languge Computing Group          ##
+##            Designed and Developed by Language Computing Group         ##
 ##          		       Date:  Nov 2023                               ##
 ##                                                                       ## 
 ###########################################################################
